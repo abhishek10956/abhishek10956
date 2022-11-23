@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Tableau**
 
 - 📫 How to reach me **ab15901hi@gmail.com**
 
