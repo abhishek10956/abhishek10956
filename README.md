@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Tableau**
 
-- 📫 How to reach me **ab15901hi@gmail.com**
+- 📫 How to reach me **abhishek15901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
